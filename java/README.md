@@ -22,7 +22,7 @@ The following word lists will be created:
 - src/Data/out.dawg
 - src/Data/pre.dawg
 
-All used by the GuiBoardPracticeWordplayGame class.
+All used by the WordplayGame class.
 
 #### Build
 
